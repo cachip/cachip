@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cachip
-- 👀 I’m interested in code & health
 - 🌱 I’m currently learning web dev, mainly JS
 
 <!---
